@@ -1,1 +1,2 @@
-# MyDesktopApplication
+### 简介
+基于Qt开发的个人桌面应用程序,用于学习
